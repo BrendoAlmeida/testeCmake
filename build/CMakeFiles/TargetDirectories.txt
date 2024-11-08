@@ -1,0 +1,3 @@
+/home/brendo/cmakeTeste/build/CMakeFiles/cmakeTeste.dir
+/home/brendo/cmakeTeste/build/CMakeFiles/edit_cache.dir
+/home/brendo/cmakeTeste/build/CMakeFiles/rebuild_cache.dir
