@@ -1,0 +1,5 @@
+name: testeCmake
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /home/brendo/miniconda3/envs/testeCmake
